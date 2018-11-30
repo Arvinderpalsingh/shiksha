@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39439" started-at="2018-11-30T07:37:09Z" finished-at="2018-11-30T07:37:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39439" started-at="2018-11-30T07:37:09Z" finished-at="2018-11-30T07:37:48Z">
+      <class name="Shiksha_SignUpTest">
+        <test-method status="PASS" signature="open()[pri:1, instance:Shiksha_SignUpTest@1e1a0406]" name="open" duration-ms="36862" started-at="2018-11-30T07:37:09Z" finished-at="2018-11-30T07:37:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="login()[pri:2, instance:Shiksha_SignUpTest@1e1a0406]" name="login" duration-ms="2058" started-at="2018-11-30T07:37:46Z" finished-at="2018-11-30T07:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Shiksha_SignUpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

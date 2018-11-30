@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/Selenium/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/Desktop/SOFTWARE TESTING MATERIAL/poi-3.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="3.141.59"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/DELL LAPTOP/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.google.guava"/>
+			<attribute name="maven.artifactId" value="guava"/>
+			<attribute name="maven.version" value="25.0-jre"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
